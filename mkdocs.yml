@@ -7,7 +7,7 @@ site_description: Blogs of YMnRb
 # [Navigtion]
 nav:
   - About:
-    - docs/about/index.md
+    - about/index.md
 
 theme:
   name: material
