@@ -2,6 +2,6 @@
 
 Here will be put the blogs of YMnRb.
 
-[Cilck me to return to the home page.](/index.md)
+[Cilck me to return to the home page.](https://YMnRb.github.io/index.md)
 
 [About author...](about/index.md)
