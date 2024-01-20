@@ -35,6 +35,6 @@ theme:
         name: Switch to light mode
 extra:
   social:
-    - icon: octicons/mail-16
-      link: mailto:yuanjy_2022@163.com
-      name: Mail me to yuanjy_2022@163.com
+    # - icon: octicons/mail-16
+    #   link: mailto:yuanjy_2022@163.com
+    #   name: Mail me to yuanjy_2022@163.com
