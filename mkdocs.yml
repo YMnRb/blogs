@@ -6,8 +6,7 @@ site_description: YMnRb's Blogs
 
 # [Navigtion]
 nav:
-  - Blog Home:
-    - index.md
+  - Blog Home: index.md
   - About:
     - about/index.md
     - about: about/1.md
